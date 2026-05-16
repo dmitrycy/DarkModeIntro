@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Dark Mode Intro",
+  "Author": "vapor64",
+  "Version": "1.0.2",
+  "Description": "Don't get flashbanged when you start the game anymore.",
+  "UniqueID": "vapor64.DarkModeIntro",
+  "EntryDll": "DarkModeIntro.dll",
+  "MinimumApiVersion": "4.5.1",
+  "UpdateKeys": ["Nexus:42935"]
+}
