@@ -1,7 +1,7 @@
 ﻿{
   "Name": "Dark Mode Intro",
   "Author": "vapor64",
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Description": "Don't get flashbanged when you start the game anymore.",
   "UniqueID": "vapor64.DarkModeIntro",
   "EntryDll": "DarkModeIntro.dll",
